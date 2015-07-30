@@ -13,7 +13,7 @@
   "author": "Gareth Jones <gareth.nomiddlename@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@git.marstv.com/git/backend/log4js.git"
+    "url": "https://github.com/bobcui/log4js-node.git"
   },
   "bugs": {
     "url": "http://github.com/nomiddlename/log4js-node/issues"
